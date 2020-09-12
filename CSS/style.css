@@ -1,0 +1,25 @@
+h1{
+    color: rgb(37, 37, 37);
+    font-size: 100px;
+}
+body{
+    text-align: center;
+    background-image: url(../img/wish.jpg);
+    background-repeat: fixed; 
+    background-attachment: no-repeat;
+    background-size: cover;
+}
+p{
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: justify;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+a{
+    color: rgb(10, 10, 10);
+    font-size: 25px;
+}
+    
